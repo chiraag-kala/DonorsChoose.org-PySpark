@@ -8,8 +8,8 @@ To date, 3 million people and partners have funded 1.1 million DonorsChoose.org 
 
 **Project Goal** - To build an ML Model that can predict whether a submitted project will receive full funding or not. DonorsChoose.org can use this model to: 
 
-* Proactively differentiate between projects that more likely to receive full funding vs. projects that have a low likelihood to receive sufficient funding. 
-* Suggest areas of improvement on project descriptions and requirements for projects that have a likelihood of receiving sufficient funding
-* Market/promote the projects that have a lower likelihood of receiving  funded sufficient more
+* Proactively differentiate between projects that are more likely to receive sufficient funding vs. projects that have a low likelihood to receive sufficient funding. 
+* Suggest edits/improvements on project proposals that have a low likelihood of receiving sufficient funding
+* Market/promote the projects that have a lower likelihood of receiving  funded sufficient more on the website, etc.
 
 **Link to the Data** - https://www.kaggle.com/donorschoose/io 
